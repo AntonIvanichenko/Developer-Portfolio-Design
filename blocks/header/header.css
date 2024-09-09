@@ -1,0 +1,13 @@
+.header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    padding: 40px 0;
+    height: 60px;
+    font-family: "DM Sans", "Times New Roman", Times, sans-serif;
+    font-optical-sizing: auto;
+    position: relative;
+}

@@ -1,2 +1,12 @@
 @import url("../vendor/normalize.css");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 @import url("../blocks/page/page.css");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
+@import url("../blocks/header/header.css");
+@import url("../blocks/container/container.css");
+@import url("../blocks/header/__logo/header__logo.css");
+@import url("../blocks/header/__menu/header__menu.css");
+@import url("../blocks/header/__menu-item/header__menu-item.css");
+@import url("../blocks/header/__social/header__social.css");
+@import url("../blocks/header/__icon/header__icon.css");
+@import url("../blocks/header/__icon/_size/header__icon_size_up.css");

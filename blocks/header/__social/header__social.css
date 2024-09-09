@@ -1,0 +1,5 @@
+.header__social {
+    padding: 0 24px;
+    -ms-flex-negative: 0;
+        flex-shrink: 0;
+}
