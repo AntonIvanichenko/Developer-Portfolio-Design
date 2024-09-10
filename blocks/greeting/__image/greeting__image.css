@@ -1,0 +1,33 @@
+.greeting__image {
+    height: 349px;
+    width: 349px;
+}
+
+@media (max-width: 1040px) {
+    .greeting__image {
+        height: 300px;
+        width: 300px;
+    }
+}
+
+@media (max-width: 900px) {
+    .greeting__image {
+        height: 250px;
+        width: 250px;
+    }
+}
+
+@media (max-width: 714px) {
+    .greeting__image {
+        -webkit-box-ordinal-group: 0;
+            -ms-flex-order: -1;
+                order: -1;
+    }
+}
+
+@media (max-width: 425px) {
+    .greeting__image {
+        height: 200px;
+        width: 200px;
+    }
+}

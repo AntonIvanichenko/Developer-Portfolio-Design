@@ -1,0 +1,32 @@
+.greeting {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    margin-top: 180px;
+}
+
+@media (max-width: 1040px) {
+    .greeting {
+        margin-top: 130px;
+    }
+}
+
+@media (max-width: 900px) {
+    .greeting {
+        margin-top: 80px;
+    }
+}
+
+@media (max-width: 500px) {
+    .greeting {
+        margin-top: 200px;
+    }
+}

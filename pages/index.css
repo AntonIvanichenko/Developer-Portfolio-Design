@@ -10,3 +10,7 @@
 @import url("../blocks/header/__social/header__social.css");
 @import url("../blocks/header/__icon/header__icon.css");
 @import url("../blocks/header/__icon/_size/header__icon_size_up.css");
+@import url("../blocks/greeting/greeting.css");
+@import url("../blocks/greeting/__text/greeting__text.css");
+@import url("../blocks/greeting/__text/_styled/greeting__text_styled.css");
+@import url("../blocks/greeting/__image/greeting__image.css");

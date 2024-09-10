@@ -22,6 +22,10 @@
     .header__menu-item {
         padding: 5px 5px;
     }
+
+    .header__menu-item:hover {
+        background-color: rgb(181 184 177 / .2);
+    }
 }
 
 .header__menu-item:nth-child(2) {

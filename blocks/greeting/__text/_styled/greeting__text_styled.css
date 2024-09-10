@@ -1,0 +1,8 @@
+.greeting__text_styled {
+    background: -webkit-gradient(linear, left top, right top, color-stop(-2.06%, #13B0F5), to(#E70FAA));
+    background: -o-linear-gradient(left, #13B0F5 -2.06%, #E70FAA 100%);
+    background: linear-gradient(90deg, #13B0F5 -2.06%, #E70FAA 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
