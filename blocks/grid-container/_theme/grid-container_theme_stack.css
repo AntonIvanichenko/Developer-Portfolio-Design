@@ -1,0 +1,21 @@
+.grid-container_theme_stack {
+    margin-top: 140px;
+}
+
+@media (max-width: 1040px) {
+    .grid-container_theme_stack {
+        margin-top: 110px;
+    }
+}
+
+@media (max-width: 900px) {
+    .grid-container_theme_stack {
+        margin-top: 80px;
+    }
+}
+
+@media (max-width: 600px) {
+    .grid-container_theme_stack {
+        margin-top: 50px;
+    }
+}

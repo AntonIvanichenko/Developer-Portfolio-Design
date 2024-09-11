@@ -1,0 +1,24 @@
+.stack__title {
+    color: #42446E;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 0.54;
+}
+
+@media (max-width: 1040px) {
+    .stack__title {
+        font-size: 41px;
+    }
+}
+
+@media (max-width: 900px) {
+    .stack__title {
+        font-size: 35px;
+    }
+}
+
+@media (max-width: 425px) {
+    .stack__title {
+        font-size: 29px;
+    }
+}
