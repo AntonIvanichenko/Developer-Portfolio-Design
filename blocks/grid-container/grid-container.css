@@ -1,8 +1,10 @@
 .grid-container {
     width: 100%;
+    display: -ms-grid;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(88px, 1fr));
-    justify-content: space-between;
-    column-gap: 132px;
+    grid-template-columns: repeat(auto-fit, minmax(88px, auto));
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
     row-gap: 64px;
 }

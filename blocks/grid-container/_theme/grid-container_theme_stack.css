@@ -1,4 +1,7 @@
 .grid-container_theme_stack {
+    -webkit-column-gap: 132px;
+       -moz-column-gap: 132px;
+            column-gap: 132px;
     margin-top: 140px;
 }
 
@@ -17,5 +20,8 @@
 @media (max-width: 600px) {
     .grid-container_theme_stack {
         margin-top: 50px;
+        -webkit-column-gap: 90px;
+        -moz-column-gap: 90px;
+             column-gap: 90px;
     }
 }

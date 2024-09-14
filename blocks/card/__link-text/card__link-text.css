@@ -1,0 +1,13 @@
+.card__link-text {
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.62;
+    -webkit-text-decoration-line: underline;
+            text-decoration-line: underline;
+    margin-left: 10px;
+}
+
+.card__link-text:nth-child(2) {
+    margin-left: 12px;
+}

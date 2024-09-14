@@ -1,0 +1,7 @@
+.card {
+    max-width: 373px;
+    -webkit-box-shadow: 2px 2px 100px 0px rgba(0 0 0 / .2);;
+            box-shadow: 2px 2px 100px 0px rgba(0 0 0 / .2);
+    border-radius: 20px;
+    padding-bottom: 25px;
+}
