@@ -1,0 +1,6 @@
+.footer__menu-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 60px 0;
+}

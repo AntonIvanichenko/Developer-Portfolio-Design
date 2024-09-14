@@ -8,7 +8,7 @@
     -webkit-box-pack: end;
         -ms-flex-pack: end;
             justify-content: end;
-    padding: 0 27px;
+            margin-right: 51px;
 }
 
 @media (max-width: 940px) {
@@ -16,7 +16,6 @@
         -webkit-box-pack: justify;
             -ms-flex-pack: justify;
                 justify-content: space-between;
-        padding: 0 0 0 27px;
     }
 }
 
@@ -28,6 +27,7 @@
         top: 110px;
         left: 0;
         padding: 0 24px ;
+        margin-right: 0;
         width: 100%;
         border-top: 1px solid black;
         border-bottom: 1px solid black;

@@ -1,0 +1,21 @@
+.footer__contacts {
+    -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: end;
+    padding: 0 27px;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 600px) {
+    .footer__contacts {
+        justify-content: flex-start;
+        margin: 20px 0;
+        padding: 0;
+    }
+}
